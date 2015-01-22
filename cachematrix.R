@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Functions makeCacheMatrix and cacheSolve accept a inversible ##matrix and inverses it and when called (cacheSolve)for the 2nd ##time returns the inverse from cache.
 
 ## This function takes a matrix as its argument and returns a ##list of functions. The functions 
 ## set - sets the value of the matrix
